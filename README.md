@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm José Lopes</h1>
-<img align="center" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" />
+<p align="center"> <img align="center" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" /> </p>
 <h3 align="center">I am 21 years old, I am a technology student and content creator on YouTube about programming, more focused on the front-end. I study back-end technologies as well. I am open to new challenges in order to grow as a professional in the area.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=programador-curioso&label=Profile%20views&color=0e75b6&style=flat" alt="programador-curioso" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />(https://twitter.com/billadas_one) <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/josé-lopes-a24425153/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/billadas_one/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/josefrancisco.lopes.37)
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> https://twitter.com/billadas_one <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/josé-lopes-a24425153/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/billadas_one/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/josefrancisco.lopes.37)
 <p align="left">
 
 <h3 align="center">Languages and Tools:</h3>
