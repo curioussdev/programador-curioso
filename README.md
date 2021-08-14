@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programador-curioso&show_icons=true&theme=dracula&locale=en" alt="programador-curioso" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programador-curioso&" alt="programador-curioso" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programador-curioso&theme=dracula" alt="programador-curioso" /></p>
