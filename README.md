@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Lopes</h1>
-<p align="center"> <img align="center" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" /> </p>
+
 <h3 align="center">I am 21 years old, I am a technology student and content creator on YouTube about programming, more focused on the front-end. I study back-end technologies as well. I am open to new challenges in order to grow as a professional in the area.</h3>
 
 
